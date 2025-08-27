@@ -29,7 +29,7 @@ function Home2() {
               <i>
                 <b className="purple">
                   JavaScript, TypeScript, C++, React, Next.js, Node.js,
-                  Express.js, MongoDB, PostgreSQL, and Prisma.
+                  Express.js, MongoDB, PostgreSQL, and DrizzleORM.
                 </b>
               </i>
               <br />
